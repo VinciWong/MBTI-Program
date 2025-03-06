@@ -2,7 +2,7 @@
 這個mbti program有別於網路上的二分法，以氣質層和認知功能等方向作為判斷基礎，所以能夠以更快捷和準確地找出用家的mbti。
 以下是這個program的運作模式:
 1. 氣質層(SP/SJ/NF/NT)
-2. 接收軸(NP/NJ)
+2. 接收軸(SP/SJ/NP/NJ)
 3. 判斷軸(FJ/FP/TJ/TP)
 4. 透過loop, grip, blind來找出I/E
 
